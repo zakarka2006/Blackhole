@@ -28,7 +28,7 @@
     ```
 
 ## Использование
-Гайд по установке и использовании модели [*тык*](https://google.com)<br>
+Гайд по установке и использовании модели [\*тык*](https://google.com)<br>
 Склонируйте репозиторий и запустите файл blackhole.py
 ```sh
 git clone https://github.com/zakarka2006/Blackhole.git
