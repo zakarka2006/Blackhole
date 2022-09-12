@@ -1,4 +1,4 @@
-<h1 align="center">Blackhole-model</h1>
+<h1 align="center">Blackhole</h1>
 <img src="https://img3.akspic.ru/crops/8/1/3/3/4/143318/143318-nebo-kosmicheskoe_prostranstvo-film-gorizont-atmosfera-3840x2160.jpg" alt="-_-"></img>
 
 # Навигация
